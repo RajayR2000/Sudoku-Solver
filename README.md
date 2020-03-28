@@ -1,4 +1,4 @@
-# Arcade Games Collection
+# Arcade Games Collection :monkey_face:
 Following are the links to the other repos containing games made from pygame:
   1. [Snake Game](https://github.com/RajayR2000/Snake-Game-Pygame)
   2. [Stack Space](https://github.com/RajayR2000/Stack-game-pygame)
